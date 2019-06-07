@@ -6,6 +6,12 @@
 https://docs.anaconda.com/anaconda/install/
 ```
 
+##Follow the steps to go through the lession and practice
+###Install Anaconda and run Juypter
+###clone the folder or download and run the .ipynb file on Jupyter notebook
+###Read and compile the codes on console
+###
+
 ## LICENSE
 
 [MIT](LICENSE)
